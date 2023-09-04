@@ -4,6 +4,7 @@
   "description": "This is Namaste React Project 1 For Testing",
   "main": "app.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "author": "Angshuman Roy",
